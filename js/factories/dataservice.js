@@ -245,7 +245,7 @@
         },
         {
           type: "Introduction of Constructor",
-          image_url: "capestone/constructor.png",
+          image_url: "capestone/constructor.PNG",
           
           description: "A constructor in C++ is a special method that is automatically called when an object of a class is created. To create a constructor, use the same name as the class, followed by parentheses ()"
         },
@@ -263,7 +263,7 @@
         },
         {
           type: "Introduction of Encapsulation ",
-          image_url: "capestone/encapsulation.png",
+          image_url: "capestone/encapsulation.PNG",
           
           description: "The meaning of Encapsulation, is to make sure that sensitive data is hidden from users. To achieve this, you must declare class variables/attributes as private (cannot be accessed from outside the class). If you want others to read or modify the value of a private member, you can provide public get and set methods."
         }
